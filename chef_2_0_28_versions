@@ -1,0 +1,6 @@
+Chef Development Kit Version: 2.0.28
+chef-client version: 13.2.20
+delivery version: master (17c1b0fed9be4c70f69091a6d21a4cbf0df60a23)
+berks version: 6.2.0
+kitchen version: 1.16.0
+inspec version: 1.31.1
